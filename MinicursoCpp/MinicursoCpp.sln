@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fatorial", "Fatorial\Fatorial.vcxproj", "{C457D99C-0FF8-46CB-95BC-A7FB2EA74345}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fibonacci", "Fibonacci\Fibonacci.vcxproj", "{C4C4CD57-8200-431C-8482-8305B73C1C67}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2_Cout", "2_Cout\2_Cout.vcxproj", "{88243145-3DE6-4B52-96CC-39036E198779}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1_HelloWorld", "1_HelloWorld\1_HelloWorld.vcxproj", "{A6D64CE3-79D1-4ED5-B29A-7356C19CE7AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_Cin", "3_Cin\3_Cin.vcxproj", "{992617AC-1544-4241-B1B9-BE1ABADB59B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_VariableDeclaration", "4_VariableDeclaration\4_VariableDeclaration.vcxproj", "{83ADF0B7-3002-4AE8-ADD5-6131491A0E14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_OperacoesAritmeticas", "5_OperacoesAritmeticas\5_OperacoesAritmeticas.vcxproj", "{BF00F251-D311-458F-9E04-307628677508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C457D99C-0FF8-46CB-95BC-A7FB2EA74345}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C457D99C-0FF8-46CB-95BC-A7FB2EA74345}.Debug|Win32.Build.0 = Debug|Win32
+		{C457D99C-0FF8-46CB-95BC-A7FB2EA74345}.Release|Win32.ActiveCfg = Release|Win32
+		{C457D99C-0FF8-46CB-95BC-A7FB2EA74345}.Release|Win32.Build.0 = Release|Win32
+		{C4C4CD57-8200-431C-8482-8305B73C1C67}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C4C4CD57-8200-431C-8482-8305B73C1C67}.Debug|Win32.Build.0 = Debug|Win32
+		{C4C4CD57-8200-431C-8482-8305B73C1C67}.Release|Win32.ActiveCfg = Release|Win32
+		{C4C4CD57-8200-431C-8482-8305B73C1C67}.Release|Win32.Build.0 = Release|Win32
+		{88243145-3DE6-4B52-96CC-39036E198779}.Debug|Win32.ActiveCfg = Debug|Win32
+		{88243145-3DE6-4B52-96CC-39036E198779}.Debug|Win32.Build.0 = Debug|Win32
+		{88243145-3DE6-4B52-96CC-39036E198779}.Release|Win32.ActiveCfg = Release|Win32
+		{88243145-3DE6-4B52-96CC-39036E198779}.Release|Win32.Build.0 = Release|Win32
+		{A6D64CE3-79D1-4ED5-B29A-7356C19CE7AB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A6D64CE3-79D1-4ED5-B29A-7356C19CE7AB}.Debug|Win32.Build.0 = Debug|Win32
+		{A6D64CE3-79D1-4ED5-B29A-7356C19CE7AB}.Release|Win32.ActiveCfg = Release|Win32
+		{A6D64CE3-79D1-4ED5-B29A-7356C19CE7AB}.Release|Win32.Build.0 = Release|Win32
+		{992617AC-1544-4241-B1B9-BE1ABADB59B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{992617AC-1544-4241-B1B9-BE1ABADB59B6}.Debug|Win32.Build.0 = Debug|Win32
+		{992617AC-1544-4241-B1B9-BE1ABADB59B6}.Release|Win32.ActiveCfg = Release|Win32
+		{992617AC-1544-4241-B1B9-BE1ABADB59B6}.Release|Win32.Build.0 = Release|Win32
+		{83ADF0B7-3002-4AE8-ADD5-6131491A0E14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83ADF0B7-3002-4AE8-ADD5-6131491A0E14}.Debug|Win32.Build.0 = Debug|Win32
+		{83ADF0B7-3002-4AE8-ADD5-6131491A0E14}.Release|Win32.ActiveCfg = Release|Win32
+		{83ADF0B7-3002-4AE8-ADD5-6131491A0E14}.Release|Win32.Build.0 = Release|Win32
+		{BF00F251-D311-458F-9E04-307628677508}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BF00F251-D311-458F-9E04-307628677508}.Debug|Win32.Build.0 = Debug|Win32
+		{BF00F251-D311-458F-9E04-307628677508}.Release|Win32.ActiveCfg = Release|Win32
+		{BF00F251-D311-458F-9E04-307628677508}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
