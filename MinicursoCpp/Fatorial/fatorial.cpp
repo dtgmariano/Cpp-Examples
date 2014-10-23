@@ -4,21 +4,23 @@ using namespace std;
 
 int main()
 {
-	int n, fat;		//Declarando variáveis
+	int fat = 1;
+	int x;
+	int number = 1;
 
-	cout<<"entre com o numero inteiro para calcular o seu fatorial"<<endl;
-	cin>>n;			//Número de elementos								
+	cout<<"Entre com um numero inteiro de 1 a 20"<<endl;
+	cin>>x;
 
-	fat = n;		//Inicializa fat com n
-	
-	while(n>1)
+	while(number <= x)
 	{
-		n--;		//Decrementa 1 de n
-		fat = fat*n; //Multiplica (n) * (n-1)
+		fat = fat * number;
+		cout<<"o fatorial de "<<number<<" e igual a "<<fat<<endl;
+		number++;
+		
 	}
 
-	cout<<"O fatorial e igual a "<<fat<<endl;		//Imprimi fatorial
-	system("pause");
+	cout<<"o fatorial de "<<x<<"e igual a "<<fat<<endl;
 
-	return 0;						//Fim programa!
+	system("pause");
+	return 0;
 }

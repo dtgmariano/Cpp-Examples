@@ -1,4 +1,4 @@
-﻿Build started 22/10/2014 17:39:24.
+﻿Build started 22/10/2014 21:35:23.
      1>Project "C:\Users\Biolab\GitHub\Cpp-Examples\MinicursoCpp\2_Cout\2_Cout.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Touching "Debug\2_Cout.unsuccessfulbuild".
@@ -14,4 +14,4 @@
 
 Build FAILED.
 
-Time Elapsed 00:00:00.57
+Time Elapsed 00:00:00.35

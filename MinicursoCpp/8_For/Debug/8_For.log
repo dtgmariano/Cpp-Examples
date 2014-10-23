@@ -1,4 +1,4 @@
-﻿Build started 22/10/2014 17:49:00.
+﻿Build started 22/10/2014 21:35:19.
      1>Project "C:\Users\Biolab\GitHub\Cpp-Examples\MinicursoCpp\8_For\8_For.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\8_For.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -19,4 +19,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.82
+Time Elapsed 00:00:01.96
